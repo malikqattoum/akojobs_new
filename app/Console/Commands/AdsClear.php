@@ -41,7 +41,7 @@ class AdsClear extends Command
 	 * @var int
 	 */
 	private $unactivatedPostsExpiration = 30; // Delete the unactivated Posts after this expiration
-	private $activatedPostsExpiration = 30; // Archive the activated Posts after this expiration
+	private $activatedPostsExpiration = 60; // Archive the activated Posts after this expiration
 	private $archivedPostsExpiration = 30; // Delete the archived Posts after this expiration
 	private $manuallyArchivedPostsExpiration = 180; // Delete the manually archived Posts after this expiration
 	
@@ -64,12 +64,7 @@ class AdsClear extends Command
 	 * @return mixed
 	 */
 	public function handle()
-	{
-		if (isDemoDomain(env('APP_URL'))) {
-			dd('This feature has been turned off in demo mode.');
-			exit();
-		}
-		
+	{	
 		// Get all Countries
 		$countries = Country::withoutGlobalScope(ActiveScope::class)->get();
 		if ($countries->count() <= 0) {
@@ -103,7 +98,7 @@ class AdsClear extends Command
 				if (!isVerifiedPost($post)) {
 					// Delete non-active Ads after '$this->unactivatedPostsExpiration' days
 					if ($today->diffInDays($post->created_at) >= $this->unactivatedPostsExpiration) {
-						$post->delete();
+						//$post->delete();
 						continue;
 					}
 				} /* Activated Ads */
@@ -115,7 +110,7 @@ class AdsClear extends Command
 							if ($possibleAdminUser->can(Permission::getStaffPermissions())) {
 								// Delete all Admin Ads after '$this->activatedPostsExpiration' days
 								if ($today->diffInDays($post->created_at) >= $this->activatedPostsExpiration) {
-									$post->delete();
+									//$post->delete();
 									continue;
 								}
 							}
@@ -174,7 +169,7 @@ class AdsClear extends Command
 						}
 						
 						// Auto-delete
-						if ($post->archived == 1) {
+						if ($post->archived == 1 && 0) {
 							// Debug
 							// $today = $today->addDays(4);
 							
@@ -224,7 +219,7 @@ class AdsClear extends Command
 								}
 								
 								// Delete
-								$post->delete();
+								//$post->delete();
 								
 								continue;
 							}
