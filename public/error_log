@@ -1,0 +1,684 @@
+[20-May-2020 19:55:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:55:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:07 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 19:56:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:01:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:01:21 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:08:38 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:09:16 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:09:16 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:09:47 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(152 in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:09:47 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php(152 in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:13:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:13:00 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:27:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:27:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:49:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:49:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:49:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:49:13 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:49:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:49:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:50:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:50:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:50:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:50:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:50:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:50:04 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:08 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:51:46 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:15 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:18 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:32 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:50 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 20:54:50 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:790
+Stack trace:
+#0 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(790): ReflectionClass->__construct('view')
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(757): Illuminate\Container\Container->make('view', Array)
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(1225): Illuminate\Foundation\Application->make('view')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(175): Illum in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 790
+[20-May-2020 16:52:53 America/Chicago] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[20-May-2020 16:52:53 America/Chicago] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[20-May-2020 19:56:38 America/Chicago] PHP Warning:  require(/home1/zd1mnyth/public_html/vendor/composer/../markbaker/complex/classes/src/functions/abs.php): failed to open stream: No such file or directory in /home1/zd1mnyth/public_html/vendor/composer/autoload_real.php on line 66
+[20-May-2020 19:56:38 America/Chicago] PHP Warning:  require(/home1/zd1mnyth/public_html/vendor/composer/../markbaker/complex/classes/src/functions/abs.php): failed to open stream: No such file or directory in /home1/zd1mnyth/public_html/vendor/composer/autoload_real.php on line 66
+[20-May-2020 19:56:38 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/zd1mnyth/public_html/vendor/composer/../markbaker/complex/classes/src/functions/abs.php' (include_path='.:/opt/php71/lib/php') in /home1/zd1mnyth/public_html/vendor/composer/autoload_real.php on line 66
+[20-May-2020 19:56:39 America/Chicago] PHP Warning:  require(/home1/zd1mnyth/public_html/vendor/composer/../markbaker/complex/classes/src/functions/abs.php): failed to open stream: No such file or directory in /home1/zd1mnyth/public_html/vendor/composer/autoload_real.php on line 66
+[20-May-2020 19:56:39 America/Chicago] PHP Warning:  require(/home1/zd1mnyth/public_html/vendor/composer/../markbaker/complex/classes/src/functions/abs.php): failed to open stream: No such file or directory in /home1/zd1mnyth/public_html/vendor/composer/autoload_real.php on line 66
+[20-May-2020 19:56:39 America/Chicago] PHP Fatal error:  require(): Failed opening required '/home1/zd1mnyth/public_html/vendor/composer/../markbaker/complex/classes/src/functions/abs.php' (include_path='.:/opt/php71/lib/php') in /home1/zd1mnyth/public_html/vendor/composer/autoload_real.php on line 66
+[14-Sep-2020 06:03:02 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Malformed URL: ///wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php:1271
+Stack trace:
+#0 /home1/zd1mnyth/public_html/packages/mcamara/laravel-localization/src/Larapen/LaravelLocalization/LaravelLocalization.php(300): mb_parse_url('///wp-content/p...', 6)
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(237): Larapen\LaravelLocalization\LaravelLocalization->getLocalizedURL('ar', '///wp-content/p...', Array)
+#2 /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php(326): Illuminate\Support\Facades\Facade::__callStatic('getLocalizedURL', Array)
+#3 /home1/zd1mnyth/public_html/storage/framework/views/8e5b8362b665ad70ac61c46f7e060da50fb4da43.php(221): lurl(NULL, Array, 'ar')
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home1/zd1mnyth...')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/fr in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php on line 1271
+[14-Sep-2020 06:03:02 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Malformed URL: ///wp-content/plugins/wp-file-manager/lib/php/connector.minimal.php in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php:1271
+Stack trace:
+#0 /home1/zd1mnyth/public_html/packages/mcamara/laravel-localization/src/Larapen/LaravelLocalization/LaravelLocalization.php(300): mb_parse_url('///wp-content/p...', 6)
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(237): Larapen\LaravelLocalization\LaravelLocalization->getLocalizedURL('ar', '///wp-content/p...', Array)
+#2 /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php(326): Illuminate\Support\Facades\Facade::__callStatic('getLocalizedURL', Array)
+#3 /home1/zd1mnyth/public_html/storage/framework/views/8e5b8362b665ad70ac61c46f7e060da50fb4da43.php(221): lurl(NULL, Array, 'ar')
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home1/zd1mnyth...')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/fr in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php on line 1271
+[14-Sep-2020 06:03:59 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Malformed URL: ///wp-content/plugins/wp-file-manager/lib/files/admin.php in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php:1271
+Stack trace:
+#0 /home1/zd1mnyth/public_html/packages/mcamara/laravel-localization/src/Larapen/LaravelLocalization/LaravelLocalization.php(300): mb_parse_url('///wp-content/p...', 6)
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(237): Larapen\LaravelLocalization\LaravelLocalization->getLocalizedURL('ar', '///wp-content/p...', Array)
+#2 /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php(326): Illuminate\Support\Facades\Facade::__callStatic('getLocalizedURL', Array)
+#3 /home1/zd1mnyth/public_html/storage/framework/views/8e5b8362b665ad70ac61c46f7e060da50fb4da43.php(221): lurl(NULL, Array, 'ar')
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home1/zd1mnyth...')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/sr in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php on line 1271
+[14-Sep-2020 06:03:59 UTC] PHP Fatal error:  Uncaught InvalidArgumentException: Malformed URL: ///wp-content/plugins/wp-file-manager/lib/files/admin.php in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php:1271
+Stack trace:
+#0 /home1/zd1mnyth/public_html/packages/mcamara/laravel-localization/src/Larapen/LaravelLocalization/LaravelLocalization.php(300): mb_parse_url('///wp-content/p...', 6)
+#1 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php(237): Larapen\LaravelLocalization\LaravelLocalization->getLocalizedURL('ar', '///wp-content/p...', Array)
+#2 /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php(326): Illuminate\Support\Facades\Facade::__callStatic('getLocalizedURL', Array)
+#3 /home1/zd1mnyth/public_html/storage/framework/views/8e5b8362b665ad70ac61c46f7e060da50fb4da43.php(221): lurl(NULL, Array, 'ar')
+#4 /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home1/zd1mnyth...')
+#5 /home1/zd1mnyth/public_html/vendor/laravel/framework/sr in /home1/zd1mnyth/public_html/app/Helpers/Functions/core.php on line 1271
+[01-Sep-2021 07:42:18 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:42:28 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:42:34 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:42:40 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:43:02 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:43:08 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:43:39 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:43:46 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:45:07 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:45:10 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:45:17 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:45:34 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:45:41 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:48:20 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:48:26 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:48:33 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 07:48:40 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:20:37 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:20:44 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:23:30 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:23:38 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:26:03 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:26:10 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:26:41 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:26:48 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:29:19 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:29:26 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:30:02 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:30:10 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:31:07 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:31:14 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:31:57 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:32:22 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:32:44 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:33:05 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:33:12 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:34:36 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:34:44 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:44:36 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 09:44:42 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:13:31 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:13:38 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:13:52 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:13:55 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:14:02 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:14:18 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:14:25 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:15:39 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:15:46 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:17:20 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[01-Sep-2021 11:17:27 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:51:17 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:51:25 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:52:29 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:52:32 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:52:38 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:52:52 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[05-Sep-2021 09:52:58 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:18:30 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:18:38 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:28:57 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:29:04 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:37:53 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:38:03 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:38:50 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:38:57 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:42:10 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 12:42:17 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 21:22:11 UTC] PHP Fatal error:  Out of memory (allocated 752877568) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[11-Sep-2021 21:22:20 UTC] PHP Fatal error:  Out of memory (allocated 752877568) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 07:24:58 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 07:25:07 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 14:13:32 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 14:13:39 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:28:22 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:28:28 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:41:20 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:41:28 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:41:46 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:41:52 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:42:21 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:42:27 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:44:46 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:44:52 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:52:13 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:52:19 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:52:26 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:52:32 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:52:44 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:52:51 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:53:16 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:57:22 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:57:26 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:57:33 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:57:46 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 19:57:52 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:14:12 UTC] PHP Fatal error:  Out of memory (allocated 752877568) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:14:21 UTC] PHP Fatal error:  Out of memory (allocated 752877568) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:14:36 UTC] PHP Fatal error:  Out of memory (allocated 752877568) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:14:45 UTC] PHP Fatal error:  Out of memory (allocated 752877568) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:20:56 UTC] PHP Fatal error:  Out of memory (allocated 744488960) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:21:03 UTC] PHP Fatal error:  Out of memory (allocated 744488960) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:26:56 UTC] PHP Fatal error:  Out of memory (allocated 744488960) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:27:03 UTC] PHP Fatal error:  Out of memory (allocated 744488960) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:31:37 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:31:43 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:39:50 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:39:57 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:39:59 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:40:07 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:41:07 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:41:14 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:57:33 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[12-Sep-2021 20:57:39 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[20-Oct-2021 12:55:05 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199
+[20-Oct-2021 12:55:19 UTC] PHP Fatal error:  Out of memory (allocated 740294656) (tried to allocate 603979776 bytes) in /home1/zd1mnyth/public_html/vendor/smalot/pdfparser/src/Smalot/PdfParser/Font.php on line 199

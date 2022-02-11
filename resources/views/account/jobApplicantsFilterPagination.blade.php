@@ -1,0 +1,1 @@
+{{ (isset($conversations)) ? $conversations->links() : '' }}

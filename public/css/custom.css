@@ -1,0 +1,182 @@
+/*
+ * Your custom CSS here...
+ */
+
+.home-reg-header {
+    margin-top:180px;
+}
+
+.home-reg-sec {
+    background-image: url('../images/site/akojobs-size1.png');
+    background-repeat: no-repeat;
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    cursor: pointer;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space:nowrap;
+}
+
+.user-photo {
+  width:200px;
+}
+
+.people-photo {
+  width:100px;
+  height: 100px;
+  margin:0px 20px 0px 0px;
+}
+
+.home_image {
+  overflow: hidden;
+}
+
+.home_image:hover .overlay {
+  opacity: .6;
+}
+
+.home_image:hover .home_city_image {
+  object-fit: cover;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 15px;
+  right: 0;
+  height: 100%;
+  width: 92%;
+  opacity: 0.3;
+  transition: .5s ease;
+  background-color: #000;
+}
+
+.rating-div
+{
+	margin-top:5px;
+	height:65px;
+}
+.rating-div p
+{
+	margin:0px;
+	font-size:20px;
+	text-align:left;
+	color:#E6E6E6;
+}
+
+.profile-image
+{
+	margin-top:10px;
+	width:200px;
+	height:150px;
+	float:left;
+	
+}
+
+.rating-star {
+  width: 25px;
+  height:25px;
+}
+
+.rating-button {
+  margin:10px 0 0 5px;
+}
+
+.people-data {
+  padding-top: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    #homepage .wide-intro h1 {
+        margin:20px 0px;
+    }
+  }
+
+  @media only screen and (max-width: 770px) {
+    .home-reg-sec {
+        min-height:446px;
+    }
+    .register-image {
+        margin-right:  1.5rem!important;
+    }
+  }
+
+  
+  @media only screen and (min-width: 1069px) and (max-width: 1190px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size2.png');
+        background-repeat: no-repeat;
+    }
+  }
+  @media only screen and (min-width: 935px) and (max-width: 1068px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size3.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 800px) and (max-width: 934px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size5.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 774px) and (max-width: 800px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size4.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 610px) and (max-width: 774px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size6.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 540px) and (max-width: 610px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size7.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 500px) and (max-width: 540px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size8.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 410px) and (max-width: 500px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size9.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 370px) and (max-width: 410px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size10.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (min-width: 320px) and (max-width: 370px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size10.png');
+        background-repeat: no-repeat;
+    }
+  }
+
+  @media only screen and (max-width: 320px){
+    .home-reg-sec {
+        background-image: url('../images/site/akojobs-size12.png');
+        background-repeat: no-repeat;
+    }
+  }

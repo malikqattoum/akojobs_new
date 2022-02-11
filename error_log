@@ -1,0 +1,6 @@
+[20-May-2020 16:50:37 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-May-2020 16:53:24 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-May-2020 17:07:11 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[20-May-2020 17:38:28 America/Chicago] PHP Fatal error:  Out of memory (allocated 693108736) (tried to allocate 46348919 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[20-May-2020 18:21:15 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[30-Dec-2021 02:37:59 America/Chicago] PHP Parse error:  syntax error, unexpected '?' in /home1/zd1mnyth/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500

@@ -1,0 +1,229 @@
+﻿files types ( pdf,doc,docx,word,rtf,rtx,ppt,pptx,odt,odp,wps,jpeg,jpg,bmp,png )
+
+
+From database set ( Active ) column to 0  to hide the field
+
+sidebar.blade.php ( Hide sidebar links )
+
+C:\xampp\htdocs\jobClass\app\Http\Controllers\Admin\LanguageController.php line 53
+
+in home_sections table => change "Latest Ads" to "Latest Jobs"
+
+change messages.php ( admin ) 'ads' to 'jobs' texts
+
+Change Iraq Dinar arabic code from database " د.ع; " to " دينار عراقي "
+
+Change currency-symbol.php =>  دينار عراقي
+
+SELECT * FROM `currencies` WHERE code = "IQD"
+
+details.blade  => Comment (report abuse) link
+
+HomeSectionController line 59  hide buttons
+
+layouts/inc/header.blade.php  ( Hide transactions link )
+
+layouts/inc/sidebar.blade.php  ( Hide transactions link )
+
+--------------------------------------------------------
+
+resources\lang\ar\auth.php
+resources\lang\ar\global.php
+resources\lang\ar\passwords.php
+resources\lang\ar\pagination.php
+resources\lang\ar\validation.php
+---------------------------------
+resources\lang\ar\global.php
+resources\lang\en\global.php
+app\Http\Controllers\Auth\RegisterController.php
+resources\views\auth\register\index.blade.php
+app\Http\Requests\UserRequest.php
+resources\lang\ar\validation.php
+resources\lang\en\validation.php
+resources\lang\ar\roles.php
+resources\lang\en\roles.php
+resources\views\account\edit.blade.php
+app\Http\Controllers\Admin\UserController.php
+app\Models\Traits\ResumeTrait.php
+resources\lang\vendor\admin\en\messages.php
+resources\lang\vendor\admin\ar\messages.php
+resources\views\vendor\admin\panel\list.blade.php
+resources\views\account\conversations.blade.php
+app\Http\Controllers\Account\ConversationsController.php
+
+resources\views\layouts\master.blade.php
+public\assets\js\custom.js
+resources\views\auth\register\index.blade.php
+resources\views\account\edit.blade.php
+app\Http\Controllers\Account\EditController.php
+app\Http\Controllers\Auth\RegisterController.php
+app\Http\Requests\UserRequest.php
+app\Models\Setting.php
+
+-----------------------------------------------------
+
+15/6/2019 :
+
+public\assets\css\skins\skin-blue.css
+public\css\app.css
+public\css\app.rtl.css
+app\Models\HomeSection.php
+app\Models\Setting.php
+app\Models\Traits\VerifiedTrait.php
+public\assets\css\style-main.css
+public\assets\css\rtl\style-main.css
+public\assets\css\skins\skin-blue.css
+public\css\app.css
+public\css\app.rtl.css
+public\js\app.js
+public\vendor\adminlte\plugins\colorpicker\bootstrap-colorpicker.js
+public\vendor\adminlte\plugins\colorpicker\bootstrap-colorpicker.min.js
+resources\views\home\inc\search.blade.php
+public\vendor\adminlte\plugins\flot\excanvas.js
+public\vendor\adminlte\plugins\flot\excanvas.min.js
+resources\views\layouts\inc\tools\svgmap.blade.php
+resources\views\layouts\inc\header.blade.php
+resources\views\errors\layouts\inc\header.blade.php
+resources\views\auth\register\index.blade.php
+resources\lang\en\global.php
+resources\lang\ar\global.php
+resources\views\search\inc\sidebar.blade.php
+
+app\Http\Controllers\Search\Traits\PreSearchTrait.php
+resources\views\layouts\inc\modal\location.blade.php will change the cities names to arabic if page is ar
+app\Http\Controllers\Search\SearchController.php
+app\Models\City.php
+
+---- Change the cities table as the local table when upload
+
+28/6/2019
+
+resources\views\auth\register\index.blade.php
+resources\views\layouts\inc\footer.blade.php
+resources\views\layouts\inc\header.blade.php
+resources\lang\en\roles.php
+resources\lang\ar\roles.php
+resources\lang\ar\experience.php
+resources\lang\ar\experience.php
+resources\lang\ar\global.php
+resources\lang\en\global.php
+resources\views\auth\register\index.blade.php
+resources\views\home\index.blade.php
+public\images\maps\iq.svg
+resources\views\search\inc\sidebar.blade.php
+public\css\custom.css
+app\Http\Controllers\Auth\RegisterController.php
+resources\views\account\edit.blade.php
+resources\lang\ar\validation.php
+resources\lang\en\validation.php
+app\Http\Requests\UserRequest.php
+app\Http\Controllers\Account\EditController.php
+config\larapen\core.php
+resources\lang\vendor\admin\en\messages.php
+resources\lang\vendor\admin\ar\messages.php
+app\Models\Traits\ResumeTrait.php
+app\Http\Controllers\Admin\UserController.php
+
+Database :
+Categories, users, gender, Cities tables
+
+
+app\Models\Traits\ResumeTrait.php
+app\Http\Controllers\Admin\UserController.php
+resources\lang\vendor\admin\en\messages.php
+resources\lang\vendor\admin\ar\messages.php
+public\assets\css\rtl\style.css
+public\assets\css\skins\skin-blue.css
+public\assets\css\style.css
+public\assets\css\rtl\style-main.css
+public\assets\css\style-main.css
+resources\views\home\index.blade.php
+resources\lang\ar\global.php
+resources\lang\en\global.php
+config\currency-symbols.php
+resources\views\post\createOrEdit\singleStep\create.blade.php
+resources\views\post\createOrEdit\multiSteps\create.blade.php
+app\Http\Controllers\Post\CreateOrEdit\MultiSteps\CreateController.php
+resources\views\post\createOrEdit\multiSteps\edit.blade.php
+resources\views\post\createOrEdit\singleStep\edit.blade.php
+resources\views\post\details.blade.php
+
+Database: 
+Currencies , Posts , Pages, Users tables
+
+
+home page :
+1, 2 , 3, 4, 5, 7, 8 9, 10, 
+Login
+register : 2 , 3
+latest jobs: 1, 2
+apply to post : 1 
+
+
+--------------------------------
+29/7/2019
+
+resources\lang\en\global.php
+resources\views\search\serp.blade.php  ( hide save search )
+resources\views\search\company\profile.blade.php  ( hide save search )
+resources\views\search\inc\categories.blade.php  ( Hide categories from search page )
+resources\views\account\inc\sidebar.blade.php  ( Hide Saved Searches from account sidebar)
+resources\lang\vendor\admin\en\messages.php
+app\Http\Controllers\Admin\UserController.php
+app\Http\Controllers\Auth\LoginController.php  ( Remove green box on log out message )
+resources\views\post\details.blade.php  ( Hide tips for candidates card from job view )
+resources\views\search\inc\form.blade.php ( Hide All Categories list from search form )
+
+general comments to search for: 
+
+// temporary set to 2 to show resume field ( I have hide the user type field and the companies in general )
+
+-----------------
+31/7/2019
+
+resources\views\vendor\admin\layout.blade.php
+public\vendor\admin\script.js
+resources\views\search\inc\sidebar.blade.php
+app\Http\Controllers\Admin\UserController.php
+resources\views\account\edit.blade.php
+resources\views\auth\register\index.blade.php
+resources\views\post\createOrEdit\multiSteps\create.blade.php
+resources\views\post\createOrEdit\singleStep\create.blade.php
+resources\views\post\createOrEdit\multiSteps\edit.blade.php
+resources\views\post\createOrEdit\singleStep\edit.blade.php
+resources\views\home\index.blade.php
+
+--------------------------------------
+
+3/8/2019
+
+resources\views\home\index.blade.php
+resources\views\post\details.blade.php
+app\Models\Traits\ResumeTrait.php
+app\Http\Controllers\Admin\UserController.php
+
+
+----------------------10:27 PM 8/4/2019
+resources\views\home\inc\search.blade.php
+resources\views\home\index.blade.php
+app\Http\Controllers\Search\BaseController.php
+resources\views\auth\register\index.blade.php
+app\Models\Traits\ResumeTrait.php
+resources\views\vendor\admin\layout.blade.php
+
+
+=================================
+vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php
+
+
+new changes --------------
+23/8/2019
+
+resources\views\home\inc\search.blade.php
+resources\views\post\details.blade.php
+public\assets\css\style-main.css
+resources\lang\en\global.php
+
+
+--------------------------
+resources\views\vendor\admin\panel\fields\checklist_dependency.blade.php   Hide Users roles
